@@ -1,0 +1,22 @@
+body{
+    padding: 1em;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-left: solid black 1px;
+    border-right:solid black 1px;
+    align-items: center;
+}
+
+*{
+     margin:0
+}
+
+table, td, th{
+border:solid 1px;
+border-collapse: collapse;
+}
+
+td,th{
+    padding:1rem;
+    text-align: center;
+}
